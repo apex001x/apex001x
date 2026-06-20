@@ -1,4 +1,4 @@
-# Apex_001x 🌟
+# Apex_001x
 
 ### 💪 Stacks
 <p align="left">
